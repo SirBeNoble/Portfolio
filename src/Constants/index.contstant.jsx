@@ -117,10 +117,9 @@ export const experiences = [
         iconBg: "#0056D2", // #accbe1
         date: "September 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learned the importance of cybersecurity practices and their impact for organizations",
+            "Identify common risks, threats, and vulnerabilities, as well as techniques to mitigate them.",
+            "Gained hands-on experience with Python, Linux, and SQL.",
         ],
     },
     {
@@ -130,10 +129,9 @@ export const experiences = [
         iconBg: "white", // #fbc3bc
         date: "September 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Cyber security basics",
+            "Networking basics and weaknesses",
+            "The web and common attacks",
         ],
     },
     {
@@ -143,10 +141,8 @@ export const experiences = [
         iconBg: "white", // #b7e4c7
         date: "September 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learned the basic offensive security concepts",
+            "Exposure to defensive security and protect a system by blocking an on ongoing cyber attack",
         ],
     },
     {
@@ -156,10 +152,9 @@ export const experiences = [
         iconBg: "white", // #a2d2ff
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Detect and analyze traffic anomalies",
+            "Monitor endpoints for threats",
+            "Utilise SIEM tools to handle incidents",
         ],
     },
     {
@@ -169,10 +164,9 @@ export const experiences = [
         iconBg: "white",
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learned to build interactive programs and automate your tasks.",
+            "Analyzed and visualized even the most complex data.",
+            "Created AI and machine learning models.",
         ],
     },
     {
@@ -182,10 +176,8 @@ export const experiences = [
         iconBg: "white",
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learned how to build complex programs using Python's built-in collection data types.",
+            "Created programs that interface with files to read and write information.",
         ],
     },
     {
@@ -195,10 +187,7 @@ export const experiences = [
         iconBg: "white",
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Used SQL standardized database language to access and manipulate data stored in databases.",
         ],
     },
     {
@@ -208,10 +197,8 @@ export const experiences = [
         iconBg: "white",
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Used SQL standardized database language to easily deal with more than on table.",
+            "Mastered the process of data manipulation and worked with complex interrelated mult-table databases.",
         ],
     },
     {
@@ -221,10 +208,7 @@ export const experiences = [
         iconBg: "white",
         date: "October 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Covers HTML, CSS, and JavaScript, the core technologies for building interactive and responsive web pages.",
         ],
     },
     {
@@ -234,10 +218,9 @@ export const experiences = [
         iconBg: "white",
         date: "March 2024",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Learned Data Science with Python to analyze and visualize data.",
+            "Master modern Python fundamentals as well as advance topics.",
+            "Built a machine learning model.",
         ],
     },
 ];
