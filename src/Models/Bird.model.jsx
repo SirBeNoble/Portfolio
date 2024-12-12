@@ -11,7 +11,7 @@ const Bird = () => {
     const { actions } = useAnimations(animations, birdRef)
 
     useEffect(() => {
-      actions["Take 001"]. play()
+      actions["Take 001"].play()
     }, [])
 
     useFrame(({clock, camera}) => {

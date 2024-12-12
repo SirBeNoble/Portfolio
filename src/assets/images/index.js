@@ -4,6 +4,10 @@ import shopify from './shopify.png'
 import starbucks from './starbucks.png'
 import tesla from './tesla.png'
 import logo from './logo.svg'
+import coursera from "./coursera.png"
+import ztm from "./ZTM.png"
+import thm from "./THM.png"
+import solo from "./sololearn.png"
 
 export {
     hero,
@@ -11,5 +15,9 @@ export {
     shopify,
     starbucks,
     tesla,
-    logo
+    logo,
+    coursera,
+    ztm,
+    thm,
+    solo
 }
